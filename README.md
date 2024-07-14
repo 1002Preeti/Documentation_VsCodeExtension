@@ -64,4 +64,4 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 
 
 
-**Enjoy your coding with Your Extension Name!**
+**Enjoy your coding with "Documentation!**
